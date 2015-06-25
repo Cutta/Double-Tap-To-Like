@@ -16,6 +16,7 @@ import android.widget.TextView;
 
 import com.example.cunoraz.like.R;
 
+//ViewPager
 public class ViewPagerAdapter extends PagerAdapter {
     // Declare Variables
     Context context;
