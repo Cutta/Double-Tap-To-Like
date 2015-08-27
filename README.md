@@ -9,6 +9,7 @@ SS
 Licence
 ====
  Copyright 2015 Cüneyt Çarıkçi.
+ Copyright 2015 Serhat Sürgüveç.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
